@@ -1,2 +1,1 @@
-# Intership_Project_3
-Intership Project 3
+A responsive image slider/carousel built with HTML and CSS, featuring smooth navigation controls.
